@@ -1,4 +1,4 @@
-# DevFishLib
+# DevFishLib v1.0
 Basic but useful JavaScript library I mostly made for myself. 
 If you are someone who wishes to use this for whatever reason, here are some small tips on how it works
 
