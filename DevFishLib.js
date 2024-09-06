@@ -1,3 +1,8 @@
+/*
+    DevFish Library by DevFish
+    v1.0
+*/
+
 class DFL{
     getElem(e){
         return document.querySelector(e)
