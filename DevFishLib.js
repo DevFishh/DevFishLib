@@ -48,4 +48,4 @@ class DFL{
     }
 }
 DFL = new DFL
-console.log("%c🐟Loaded DevFishLIB | v1.0","width: fit-content; padding: .5em; padding-right: 5em background: #1E1E1E; border-left: .5em solid #FF00FF; color: #FF00FF; font-family: 'Segoe UI Black'; cursor: default")
+console.log("%c🐟Loaded DevFishLIB | v1.0","width: fit-content; padding: .5em; padding-right: 5em; background: #1E1E1E; border-left: .5em solid #FF00FF; color: #FF00FF; font-family: 'Segoe UI Black'; cursor: default")
